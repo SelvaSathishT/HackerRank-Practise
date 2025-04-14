@@ -1,0 +1,20 @@
+[
+  {
+    "srno": 0,
+    "name": "Saagar",
+    "email": "saagar@gmail.com",
+    "number": 7845508552
+  },
+  {
+    "srno": 1,
+    "name": "Prasad",
+    "email": "prasad@gmail.com",
+    "number": 7656358775
+  },
+  {
+    "srno": 2,
+    "name": "Sanjay",
+    "email": "sanjay@gmail.com",
+    "number": 9468708753
+  }
+]
