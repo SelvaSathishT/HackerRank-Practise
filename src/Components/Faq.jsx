@@ -10,6 +10,10 @@ const FAQComponent = ({ string,data }) => {
     setOpen(open === index ? null : index);
   }
 
+  const handleToggle1 = (index) => {
+    setOpen(open === index ? null : index);
+  }
+
   const handleDelete = (index) => {
     setOpen(null);
     setFaqs(faqs.filter((_,indexes)=> indexes !== index));
