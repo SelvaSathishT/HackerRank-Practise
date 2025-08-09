@@ -8,6 +8,7 @@ const FAQComponent = ({ string,data }) => {
  
   const handleToggle = (index) => {
     setOpen(open === index ? null : index);
+    console.log('Hello world')
   }
 
   const handleToggle1 = (index) => {
